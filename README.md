@@ -1,21 +1,33 @@
-# Micro-Doppler Target Classification
+# Micro-Doppler Human Activity Recognition
 
-This project explores Micro-Doppler target classification concepts using Python-based signal processing workflows.
+This project explores radar-based human activity recognition using Micro-Doppler signal analysis, spectrogram generation, SVM classification, and CNN-based deep learning workflows.
+
+## Activities Simulated
+
+* Walking
+* Running
+* Crawling
+* Falling
+* Breathing
 
 ## Technologies Used
 
 * Python
 * NumPy
 * Matplotlib
+* TensorFlow / Keras
 * Scikit-learn
+* OpenCV
 
 ## Concepts Explored
 
-* Spectrogram visualization
+* FFT analysis
+* STFT spectrogram generation
 * Signal processing
 * Feature extraction
-* SVM-based classification
+* SVM classification
+* CNN-based spectrogram classification
 
-## Status
+## Current Status
 
-Currently under development as part of internship/research learning.
+Research-oriented learning project under continuous development.
